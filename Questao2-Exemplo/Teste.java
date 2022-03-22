@@ -1,7 +1,3 @@
-
-package Questao2;
-
-
 public class Teste {
 
     
