@@ -1,6 +1,4 @@
 
-package Questao1;
-
 //Classe herdando Classe mãe e implementando EquipamentoEletronico
 public class Controle extends EquipamentoEletronico implements Controlador {
     
