@@ -1,6 +1,3 @@
-
-package q4;
-
 public class Barco extends Brinquedo implements BrinquedoMovivel{
 
   
