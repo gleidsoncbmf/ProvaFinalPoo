@@ -1,7 +1,4 @@
 
-package Questao1;
-
-
 public class Mouse extends EquipamentoEletronico implements Controlador {
     
     //atributos
