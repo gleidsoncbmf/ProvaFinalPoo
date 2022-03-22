@@ -1,7 +1,4 @@
 
-package Questao1;
-
-
 //Classe mãe abstrata
 public abstract class EquipamentoEletronico {
     
