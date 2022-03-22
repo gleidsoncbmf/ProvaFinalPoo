@@ -1,7 +1,4 @@
 
-package q4;
-
-
 public class Teste {
     
     //O Poliformismo acontece ao chamar o método mover(), cada brinquedo se move de forma diferente usando o mesmo método.
