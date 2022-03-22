@@ -1,6 +1,4 @@
 
-package q4;
- 
     public abstract class Brinquedo{
   
     public String nome;
