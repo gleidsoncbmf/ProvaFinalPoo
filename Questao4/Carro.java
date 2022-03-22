@@ -1,7 +1,4 @@
 
-package q4;
-
-
 public class Carro extends Brinquedo implements BrinquedoMovivel{
 
   
